@@ -10,6 +10,6 @@ public class GurujiTest {
 	@Test
 	public void guruji()
 	{
-		Reporter.log("Guruji is the supermost power",true);
+		Reporter.log("Guruji is the supermost power will ",true);
 	}
 }
